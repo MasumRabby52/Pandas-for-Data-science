@@ -1,4 +1,4 @@
-# Pandas-for-Data-scienc
+# Pandas-for-Data-science
 
 # importing a data set
 ~~~
