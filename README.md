@@ -95,7 +95,7 @@ d
 ~~~
 for x in d.index:
   if d.loc[x, "Math Marks"] > 90:
-    d.loc[x, "Math Marks"] = 90
+    d=d.fillna(90)
 d
 ~~~
 
