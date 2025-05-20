@@ -6,6 +6,11 @@ import pandas as np
 d=np.read_csv('Data.csv')
 d
 ~~~
+# Make Table from data
+~~~
+d=pd.DataFrame(Data)
+~~~
+
 # some function
 
 ~~~
